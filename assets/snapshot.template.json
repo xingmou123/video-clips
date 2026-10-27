@@ -1,0 +1,35 @@
+{
+  "work_id": "待填真实作品ID",
+  "account": "待填目标账号",
+  "content_type": "video",
+  "method_version": "待填本片方法版本",
+  "published_at": null,
+  "captured_at": null,
+  "data_as_of": null,
+  "duration_seconds": null,
+  "traffic_basis": "unknown",
+  "measurement_scope": "lifetime",
+  "metrics": {
+    "views": {"value": null, "unit": "count", "raw_name": "播放量", "exact": false, "source": null},
+    "bounce_2s_pct": {"value": null, "unit": "percent", "raw_name": "2秒跳出率", "source": null},
+    "retention_3s_pct": {"value": null, "unit": "percent", "raw_name": "3秒留存率", "source": null},
+    "retention_5s_pct": {"value": null, "unit": "percent", "raw_name": "5秒完播率", "source": null},
+    "avg_watch_seconds": {"value": null, "unit": "seconds", "raw_name": "平均播放时长", "source": null},
+    "completion_pct": {"value": null, "unit": "percent", "raw_name": "完播率", "source": null}
+  },
+  "leads": {
+    "confirmed_wechat": null,
+    "qualified_wechat": null,
+    "qualified_consultations": null,
+    "paid_enrollments": null,
+    "source": null
+  },
+  "attribution": {
+    "basis": "unknown",
+    "coverage": "unknown",
+    "same_cohort": false,
+    "view_window_aligned": false,
+    "window_days": 30,
+    "window_mature": false
+  }
+}

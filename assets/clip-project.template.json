@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "project_name": "待填写项目名",
+  "north_star": "新增有效微信线索，兼看有效咨询与报名",
+  "qualified_lead_definition": "已核实实际新增微信，符合本业务目标人群，有明确相关需求；资料不足标待判断",
+  "target_audience": [],
+  "accounts": [],
+  "source_index": "相对本配置的素材入口路径",
+  "work_registry": "已有作品登记路径或链接",
+  "current_method": "相对本配置的方法文件路径",
+  "evidence_directory": "相对本配置的数据与复盘目录",
+  "lead_source": "已有业务线索系统入口，仅放引用",
+  "order_source": "已有订单记录入口，仅放引用",
+  "cta_resources": [],
+  "observation_hours": [24, 72, 168],
+  "lead_window_days": 30,
+  "method_update_mode": "propose",
+  "method_update_authorization": null,
+  "external_action_authorization": [],
+  "existing_observers": [],
+  "shared_skill_maintenance_workspace": null
+}

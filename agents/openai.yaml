@@ -1,0 +1,4 @@
+interface:
+  display_name: "视频切片与引流复盘"
+  short_description: "制作保留真实干货的视频切片，用留存和有效线索迭代剪辑与引流方法"
+  default_prompt: "使用 $video-clips，根据本项目素材和当前方法制作切片，或复盘发布后的留存与有效线索。"

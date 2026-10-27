@@ -1,0 +1,67 @@
+{
+  "work_id": "demo-only-001",
+  "account": "demo-account",
+  "content_type": "teaching",
+  "method_version": "demo-v1",
+  "published_at": "2026-10-01T10:00:00+08:00",
+  "captured_at": "2026-10-02T10:05:00+08:00",
+  "data_as_of": "2026-10-02T10:00:00+08:00",
+  "duration_seconds": 100,
+  "traffic_basis": "organic",
+  "measurement_scope": "lifetime",
+  "metrics": {
+    "views": {
+      "value": 1000,
+      "unit": "count",
+      "raw_name": "播放量",
+      "exact": true,
+      "source": "虚构演示数据"
+    },
+    "bounce_2s_pct": {
+      "value": null,
+      "unit": "percent",
+      "raw_name": "2秒跳出率",
+      "source": null
+    },
+    "retention_3s_pct": {
+      "value": null,
+      "unit": "percent",
+      "raw_name": "3秒留存率",
+      "source": null
+    },
+    "retention_5s_pct": {
+      "value": null,
+      "unit": "percent",
+      "raw_name": "5秒完播率",
+      "source": null
+    },
+    "avg_watch_seconds": {
+      "value": 20,
+      "unit": "seconds",
+      "raw_name": "平均播放时长",
+      "source": "虚构演示数据"
+    },
+    "completion_pct": {
+      "value": 8,
+      "unit": "percent",
+      "raw_name": "完播率",
+      "source": "虚构演示数据"
+    }
+  },
+  "leads": {
+    "confirmed_wechat": 5,
+    "qualified_wechat": 3,
+    "qualified_consultations": 2,
+    "paid_enrollments": 1,
+    "source": "虚构演示数据"
+  },
+  "attribution": {
+    "basis": "confirmed_work",
+    "coverage": "complete",
+    "same_cohort": true,
+    "view_window_aligned": true,
+    "window_days": 1,
+    "window_mature": true
+  },
+  "capture_note": "全部为虚构演示，不代表真实账号数据"
+}
